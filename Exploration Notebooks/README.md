@@ -1,0 +1,1 @@
+Over the course of this project, we explored a lot of different facets of the given datasets by examining different variables, relationships, and visualizations. Many of these exploratory analyses did not make it into our final report, but are preserved in this folder.
